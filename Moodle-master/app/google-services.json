@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041850891831",
+    "firebase_url": "https://studymadeeasy-bf658.firebaseio.com",
+    "project_id": "studymadeeasy-bf658",
+    "storage_bucket": "studymadeeasy-bf658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041850891831:android:de5a39a6ce19f08e5a09b2",
+        "android_client_info": {
+          "package_name": "com.mohan.studymadeeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041850891831-mkmt28rceiqg3uktjpe5sod7engtpj0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohan.studymadeeasy",
+            "certificate_hash": "3838d55a8ed9aa89f8a51a997a8450a91964a716"
+          }
+        },
+        {
+          "client_id": "1041850891831-kfmkj6isq5rc4nigi4hmvk6bt36vrklb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdMAyLck1KabFq8F7II762a4EmtQUXqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041850891831-kfmkj6isq5rc4nigi4hmvk6bt36vrklb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
